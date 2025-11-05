@@ -8,5 +8,6 @@ namespace PrihlasovaniUzivatelu
 {
     internal class Neco
     {
+        
     }
 }
