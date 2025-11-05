@@ -21,6 +21,7 @@ namespace PrihlasovaniUzivatelu
         {
             //ahoj lidi, tohle je zkouska
 
+            //jsem diddler
         }
 
 
