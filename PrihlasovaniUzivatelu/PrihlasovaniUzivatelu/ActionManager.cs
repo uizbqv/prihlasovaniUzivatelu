@@ -6,8 +6,7 @@ using System.Threading.Tasks;
 
 namespace PrihlasovaniUzivatelu
 {
-    internal class Neco
+    internal class ActionManager
     {
-        
     }
 }
