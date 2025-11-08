@@ -29,5 +29,12 @@ namespace PrihlasovaniUzivatelu
             Registration r = new Registration();
             r.Show();
         }
+
+        private void logInBUTTON1_Click(object sender, EventArgs e)
+        {
+            string username = usernameBOX1.Text;
+            string password = passwordBOX1.Text;
+            UserManager.LogIn();
+        }
     }
 }

@@ -42,9 +42,9 @@
             this.label4.AutoSize = true;
             this.label4.Location = new System.Drawing.Point(325, 210);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(66, 13);
+            this.label4.Size = new System.Drawing.Size(82, 13);
             this.label4.TabIndex = 13;
-            this.label4.Text = "Heslo znovu";
+            this.label4.Text = "Password again";
             // 
             // textBox3
             // 
@@ -58,9 +58,9 @@
             this.label3.AutoSize = true;
             this.label3.Location = new System.Drawing.Point(325, 162);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(34, 13);
+            this.label3.Size = new System.Drawing.Size(53, 13);
             this.label3.TabIndex = 11;
-            this.label3.Text = "Heslo";
+            this.label3.Text = "Password";
             // 
             // textBox2
             // 
@@ -74,9 +74,9 @@
             this.label2.AutoSize = true;
             this.label2.Location = new System.Drawing.Point(325, 114);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(93, 13);
+            this.label2.Size = new System.Drawing.Size(55, 13);
             this.label2.TabIndex = 9;
-            this.label2.Text = "Uživatelské jméno";
+            this.label2.Text = "Username";
             // 
             // label1
             // 
@@ -94,7 +94,7 @@
             this.textBox1.Size = new System.Drawing.Size(108, 20);
             this.textBox1.TabIndex = 7;
             // 
-            // Registrace
+            // Registration
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -106,7 +106,7 @@
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.textBox1);
-            this.Name = "Registrace";
+            this.Name = "Registration";
             this.Text = "Registrace";
             this.ResumeLayout(false);
             this.PerformLayout();
