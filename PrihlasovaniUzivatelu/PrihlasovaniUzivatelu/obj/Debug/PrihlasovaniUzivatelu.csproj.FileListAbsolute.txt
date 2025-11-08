@@ -1,0 +1,12 @@
+C:\Users\Amd\OneDrive\Documents\GitHub\prihlasovaniUzivatelu\PrihlasovaniUzivatelu\PrihlasovaniUzivatelu\bin\Debug\PrihlasovaniUzivatelu.exe.config
+C:\Users\Amd\OneDrive\Documents\GitHub\prihlasovaniUzivatelu\PrihlasovaniUzivatelu\PrihlasovaniUzivatelu\bin\Debug\PrihlasovaniUzivatelu.exe
+C:\Users\Amd\OneDrive\Documents\GitHub\prihlasovaniUzivatelu\PrihlasovaniUzivatelu\PrihlasovaniUzivatelu\bin\Debug\PrihlasovaniUzivatelu.pdb
+C:\Users\Amd\OneDrive\Documents\GitHub\prihlasovaniUzivatelu\PrihlasovaniUzivatelu\PrihlasovaniUzivatelu\obj\Debug\PrihlasovaniUzivatelu.csproj.AssemblyReference.cache
+C:\Users\Amd\OneDrive\Documents\GitHub\prihlasovaniUzivatelu\PrihlasovaniUzivatelu\PrihlasovaniUzivatelu\obj\Debug\PrihlasovaniUzivatelu.AdminScreen.resources
+C:\Users\Amd\OneDrive\Documents\GitHub\prihlasovaniUzivatelu\PrihlasovaniUzivatelu\PrihlasovaniUzivatelu\obj\Debug\PrihlasovaniUzivatelu.Form1.resources
+C:\Users\Amd\OneDrive\Documents\GitHub\prihlasovaniUzivatelu\PrihlasovaniUzivatelu\PrihlasovaniUzivatelu\obj\Debug\PrihlasovaniUzivatelu.Properties.Resources.resources
+C:\Users\Amd\OneDrive\Documents\GitHub\prihlasovaniUzivatelu\PrihlasovaniUzivatelu\PrihlasovaniUzivatelu\obj\Debug\PrihlasovaniUzivatelu.Registration.resources
+C:\Users\Amd\OneDrive\Documents\GitHub\prihlasovaniUzivatelu\PrihlasovaniUzivatelu\PrihlasovaniUzivatelu\obj\Debug\PrihlasovaniUzivatelu.csproj.GenerateResource.cache
+C:\Users\Amd\OneDrive\Documents\GitHub\prihlasovaniUzivatelu\PrihlasovaniUzivatelu\PrihlasovaniUzivatelu\obj\Debug\PrihlasovaniUzivatelu.csproj.CoreCompileInputs.cache
+C:\Users\Amd\OneDrive\Documents\GitHub\prihlasovaniUzivatelu\PrihlasovaniUzivatelu\PrihlasovaniUzivatelu\obj\Debug\PrihlasovaniUzivatelu.exe
+C:\Users\Amd\OneDrive\Documents\GitHub\prihlasovaniUzivatelu\PrihlasovaniUzivatelu\PrihlasovaniUzivatelu\obj\Debug\PrihlasovaniUzivatelu.pdb

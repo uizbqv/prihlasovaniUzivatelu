@@ -24,6 +24,10 @@ namespace PrihlasovaniUzivatelu
             //jsem diddler
         }
 
-
+        private void label5_Click(object sender, EventArgs e)
+        {
+            Registration r = new Registration();
+            r.Show();
+        }
     }
 }
