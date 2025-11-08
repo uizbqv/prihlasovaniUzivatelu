@@ -34,7 +34,7 @@ namespace PrihlasovaniUzivatelu
         {
             string username = usernameBOX1.Text;
             string password = passwordBOX1.Text;
-            UserManager.LogIn();
+            UserManager.LogIn(username, password);
         }
     }
 }
