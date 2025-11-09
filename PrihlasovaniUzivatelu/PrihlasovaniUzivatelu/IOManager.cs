@@ -1,40 +1,48 @@
-﻿using System;
+﻿using Microsoft.VisualBasic.ApplicationServices;
+using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Net.Http.Json;
+using System.Text;
 using System.Text.Json;
 using System.Text.Json.Serialization;
+using System.Threading.Tasks;
+using static PrihlasovaniUzivatelu.IOManager;
 
 namespace PrihlasovaniUzivatelu
 {
     internal class IOManager
     {
-        static public void JsonConverter() 
-        {
-            UserManager um = new UserManager();
-            
-            User u = new User()
 
-            string Json = JsonSerializer.Serialize(u);
-            Console.WriteLine(Json);
+        private static readonly string filePath = "users.json";
+
+
+        static public void JsonConverter(User user)
+        {
+
+            List<User> users = new();
+
+            //pokud json soubor existuje, načteme ho (ochrana proti spadnutí)
+           
+            if (File.Exists(filePath))
+            {
+                string existingJson = File.ReadAllText(filePath);
+                if (!string.IsNullOrWhiteSpace(existingJson))
+                    users = JsonSerializer.Deserialize<List<User>>(existingJson);
+            }
+
+            //Přidání nového uživatele
+            users.Add(user);
+
+            //Zápis zpět do souboru
+            var options = new JsonSerializerOptions { WriteIndented = true };
+            string json = JsonSerializer.Serialize(users, options);
+            File.WriteAllText(filePath, json);
+
+
 
         }
 
-
-    }
-
-    internal class User
-    {
-        public string username { get; }
-        public string password { get; }
-
-        public User(string username, string password)
-        {
-            this.username = username;
-            this.password = password;
-        }
-
+       
     }
 }

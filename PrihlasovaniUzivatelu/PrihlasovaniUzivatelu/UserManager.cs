@@ -1,4 +1,5 @@
-﻿using System;
+﻿using PrihlasovaniUzivatelu.Properties;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Security.Cryptography;
@@ -9,11 +10,16 @@ namespace PrihlasovaniUzivatelu
 {
     internal class UserManager
     {
+        
+
         public static void LogIn(string _username, string _password)
         {
             string username = _username;
             string password = _password;
             string hashedPassword = PasswordHasher(_password);
+
+          
+
         }
         public static void Registration()
         {
