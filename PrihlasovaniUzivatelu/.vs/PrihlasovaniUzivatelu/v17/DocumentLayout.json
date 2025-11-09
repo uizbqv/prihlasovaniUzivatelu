@@ -1,18 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Dokumenty\\GitHub\\prihlasovaniUzivatelu\\PrihlasovaniUzivatelu\\",
+  "WorkspaceRootPath": "E:\\GitHub\\prihlasovaniUzivatelu\\PrihlasovaniUzivatelu\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D8647BFA-CA94-4F71-BA6C-0DB9F52980D6}|PrihlasovaniUzivatelu\\PrihlasovaniUzivatelu.csproj|c:\\dokumenty\\github\\prihlasovaniuzivatelu\\prihlasovaniuzivatelu\\prihlasovaniuzivatelu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D8647BFA-CA94-4F71-BA6C-0DB9F52980D6}|PrihlasovaniUzivatelu\\PrihlasovaniUzivatelu.csproj|solutionrelative:prihlasovaniuzivatelu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D8647BFA-CA94-4F71-BA6C-0DB9F52980D6}|PrihlasovaniUzivatelu\\PrihlasovaniUzivatelu.csproj|e:\\github\\prihlasovaniuzivatelu\\prihlasovaniuzivatelu\\prihlasovaniuzivatelu\\iomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8647BFA-CA94-4F71-BA6C-0DB9F52980D6}|PrihlasovaniUzivatelu\\PrihlasovaniUzivatelu.csproj|solutionrelative:prihlasovaniuzivatelu\\iomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D8647BFA-CA94-4F71-BA6C-0DB9F52980D6}|PrihlasovaniUzivatelu\\PrihlasovaniUzivatelu.csproj|C:\\Dokumenty\\GitHub\\prihlasovaniUzivatelu\\PrihlasovaniUzivatelu\\prihlasovaniuzivatelu\\neco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D8647BFA-CA94-4F71-BA6C-0DB9F52980D6}|PrihlasovaniUzivatelu\\PrihlasovaniUzivatelu.csproj|solutionrelative:prihlasovaniuzivatelu\\neco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D8647BFA-CA94-4F71-BA6C-0DB9F52980D6}|PrihlasovaniUzivatelu\\PrihlasovaniUzivatelu.csproj|e:\\github\\prihlasovaniuzivatelu\\prihlasovaniuzivatelu\\prihlasovaniuzivatelu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8647BFA-CA94-4F71-BA6C-0DB9F52980D6}|PrihlasovaniUzivatelu\\PrihlasovaniUzivatelu.csproj|solutionrelative:prihlasovaniuzivatelu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D8647BFA-CA94-4F71-BA6C-0DB9F52980D6}|PrihlasovaniUzivatelu\\PrihlasovaniUzivatelu.csproj|C:\\Dokumenty\\GitHub\\prihlasovaniUzivatelu\\PrihlasovaniUzivatelu\\prihlasovaniuzivatelu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D8647BFA-CA94-4F71-BA6C-0DB9F52980D6}|PrihlasovaniUzivatelu\\PrihlasovaniUzivatelu.csproj|solutionrelative:prihlasovaniuzivatelu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{D8647BFA-CA94-4F71-BA6C-0DB9F52980D6}|PrihlasovaniUzivatelu\\PrihlasovaniUzivatelu.csproj|e:\\github\\prihlasovaniuzivatelu\\prihlasovaniuzivatelu\\prihlasovaniuzivatelu\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8647BFA-CA94-4F71-BA6C-0DB9F52980D6}|PrihlasovaniUzivatelu\\PrihlasovaniUzivatelu.csproj|solutionrelative:prihlasovaniuzivatelu\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,43 +22,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Neco.cs",
-              "DocumentMoniker": "C:\\Dokumenty\\GitHub\\prihlasovaniUzivatelu\\PrihlasovaniUzivatelu\\PrihlasovaniUzivatelu\\Neco.cs",
-              "RelativeDocumentMoniker": "PrihlasovaniUzivatelu\\Neco.cs",
-              "ToolTip": "C:\\Dokumenty\\GitHub\\prihlasovaniUzivatelu\\PrihlasovaniUzivatelu\\PrihlasovaniUzivatelu\\Neco.cs",
-              "RelativeToolTip": "PrihlasovaniUzivatelu\\Neco.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-05T19:45:01.821Z"
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Dokumenty\\GitHub\\prihlasovaniUzivatelu\\PrihlasovaniUzivatelu\\PrihlasovaniUzivatelu\\Form1.cs",
-              "RelativeDocumentMoniker": "PrihlasovaniUzivatelu\\Form1.cs",
-              "ToolTip": "C:\\Dokumenty\\GitHub\\prihlasovaniUzivatelu\\PrihlasovaniUzivatelu\\PrihlasovaniUzivatelu\\Form1.cs",
-              "RelativeToolTip": "PrihlasovaniUzivatelu\\Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\GitHub\\prihlasovaniUzivatelu\\PrihlasovaniUzivatelu\\PrihlasovaniUzivatelu\\Program.cs",
+              "RelativeDocumentMoniker": "PrihlasovaniUzivatelu\\Program.cs",
+              "ToolTip": "E:\\GitHub\\prihlasovaniUzivatelu\\PrihlasovaniUzivatelu\\PrihlasovaniUzivatelu\\Program.cs",
+              "RelativeToolTip": "PrihlasovaniUzivatelu\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-05T19:45:02.099Z",
+              "WhenOpened": "2025-11-09T21:32:25.239Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Form1.cs [N\u00E1vrh]",
-              "DocumentMoniker": "C:\\Dokumenty\\GitHub\\prihlasovaniUzivatelu\\PrihlasovaniUzivatelu\\PrihlasovaniUzivatelu\\Form1.cs",
-              "RelativeDocumentMoniker": "PrihlasovaniUzivatelu\\Form1.cs",
-              "ToolTip": "C:\\Dokumenty\\GitHub\\prihlasovaniUzivatelu\\PrihlasovaniUzivatelu\\PrihlasovaniUzivatelu\\Form1.cs [N\u00E1vrh]",
-              "RelativeToolTip": "PrihlasovaniUzivatelu\\Form1.cs [N\u00E1vrh]",
+              "Title": "UserManager.cs",
+              "DocumentMoniker": "E:\\GitHub\\prihlasovaniUzivatelu\\PrihlasovaniUzivatelu\\PrihlasovaniUzivatelu\\UserManager.cs",
+              "RelativeDocumentMoniker": "PrihlasovaniUzivatelu\\UserManager.cs",
+              "ToolTip": "E:\\GitHub\\prihlasovaniUzivatelu\\PrihlasovaniUzivatelu\\PrihlasovaniUzivatelu\\UserManager.cs",
+              "RelativeToolTip": "PrihlasovaniUzivatelu\\UserManager.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-05T19:45:02.222Z"
+              "WhenOpened": "2025-11-09T21:07:38.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IOManager.cs",
+              "DocumentMoniker": "E:\\GitHub\\prihlasovaniUzivatelu\\PrihlasovaniUzivatelu\\PrihlasovaniUzivatelu\\IOManager.cs",
+              "RelativeDocumentMoniker": "PrihlasovaniUzivatelu\\IOManager.cs",
+              "ToolTip": "E:\\GitHub\\prihlasovaniUzivatelu\\PrihlasovaniUzivatelu\\PrihlasovaniUzivatelu\\IOManager.cs",
+              "RelativeToolTip": "PrihlasovaniUzivatelu\\IOManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T21:06:38.022Z",
+              "EditorCaption": ""
             }
           ]
         }
