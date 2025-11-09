@@ -13,7 +13,7 @@ namespace PrihlasovaniUzivatelu
         {
             string username = _username;
             string password = _password;
-            PasswordHasher(_password);
+            string hashedPassword = PasswordHasher(_password);
         }
         public static void Registration()
         {

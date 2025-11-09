@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Amd\\OneDrive - Obchodní akademie T.G.M. Kostelec nad Orlicí\\PRG\\PrihlasovaniUzivatelu\\PrihlasovaniUzivatelu\\PrihlasovaniUzivatelu.csproj": {}
+    "C:\\Users\\Amd\\OneDrive\\Documents\\GitHub\\prihlasovaniUzivatelu\\PrihlasovaniUzivatelu\\PrihlasovaniUzivatelu\\PrihlasovaniUzivatelu.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Amd\\OneDrive - Obchodní akademie T.G.M. Kostelec nad Orlicí\\PRG\\PrihlasovaniUzivatelu\\PrihlasovaniUzivatelu\\PrihlasovaniUzivatelu.csproj": {
+    "C:\\Users\\Amd\\OneDrive\\Documents\\GitHub\\prihlasovaniUzivatelu\\PrihlasovaniUzivatelu\\PrihlasovaniUzivatelu\\PrihlasovaniUzivatelu.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Amd\\OneDrive - Obchodní akademie T.G.M. Kostelec nad Orlicí\\PRG\\PrihlasovaniUzivatelu\\PrihlasovaniUzivatelu\\PrihlasovaniUzivatelu.csproj",
+        "projectUniqueName": "C:\\Users\\Amd\\OneDrive\\Documents\\GitHub\\prihlasovaniUzivatelu\\PrihlasovaniUzivatelu\\PrihlasovaniUzivatelu\\PrihlasovaniUzivatelu.csproj",
         "projectName": "PrihlasovaniUzivatelu",
-        "projectPath": "C:\\Users\\Amd\\OneDrive - Obchodní akademie T.G.M. Kostelec nad Orlicí\\PRG\\PrihlasovaniUzivatelu\\PrihlasovaniUzivatelu\\PrihlasovaniUzivatelu.csproj",
+        "projectPath": "C:\\Users\\Amd\\OneDrive\\Documents\\GitHub\\prihlasovaniUzivatelu\\PrihlasovaniUzivatelu\\PrihlasovaniUzivatelu\\PrihlasovaniUzivatelu.csproj",
         "packagesPath": "C:\\Users\\Amd\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Amd\\OneDrive - Obchodní akademie T.G.M. Kostelec nad Orlicí\\PRG\\PrihlasovaniUzivatelu\\PrihlasovaniUzivatelu\\obj\\",
+        "outputPath": "C:\\Users\\Amd\\OneDrive\\Documents\\GitHub\\prihlasovaniUzivatelu\\PrihlasovaniUzivatelu\\PrihlasovaniUzivatelu\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Amd\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -36,5 +36,7 @@ namespace PrihlasovaniUzivatelu
             string password = passwordBOX1.Text;
             UserManager.LogIn(username, password);
         }
+
+
     }
 }
