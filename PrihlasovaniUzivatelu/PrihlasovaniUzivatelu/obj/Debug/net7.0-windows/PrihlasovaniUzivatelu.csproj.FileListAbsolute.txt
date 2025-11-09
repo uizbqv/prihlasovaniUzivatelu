@@ -17,3 +17,23 @@ C:\Users\Amd\OneDrive - Obchodní akademie T.G.M. Kostelec nad Orlicí\PRG\Prihl
 C:\Users\Amd\OneDrive - Obchodní akademie T.G.M. Kostelec nad Orlicí\PRG\PrihlasovaniUzivatelu\PrihlasovaniUzivatelu\obj\Debug\net7.0-windows\PrihlasovaniUzivatelu.pdb
 C:\Users\Amd\OneDrive - Obchodní akademie T.G.M. Kostelec nad Orlicí\PRG\PrihlasovaniUzivatelu\PrihlasovaniUzivatelu\obj\Debug\net7.0-windows\PrihlasovaniUzivatelu.genruntimeconfig.cache
 C:\Users\Amd\OneDrive - Obchodní akademie T.G.M. Kostelec nad Orlicí\PRG\PrihlasovaniUzivatelu\PrihlasovaniUzivatelu\obj\Debug\net7.0-windows\ref\PrihlasovaniUzivatelu.dll
+E:\GitHub\PrihlasovaniUzivatelu\PrihlasovaniUzivatelu\bin\Debug\net7.0-windows\PrihlasovaniUzivatelu.exe
+E:\GitHub\PrihlasovaniUzivatelu\PrihlasovaniUzivatelu\bin\Debug\net7.0-windows\PrihlasovaniUzivatelu.deps.json
+E:\GitHub\PrihlasovaniUzivatelu\PrihlasovaniUzivatelu\bin\Debug\net7.0-windows\PrihlasovaniUzivatelu.runtimeconfig.json
+E:\GitHub\PrihlasovaniUzivatelu\PrihlasovaniUzivatelu\bin\Debug\net7.0-windows\PrihlasovaniUzivatelu.dll
+E:\GitHub\PrihlasovaniUzivatelu\PrihlasovaniUzivatelu\bin\Debug\net7.0-windows\PrihlasovaniUzivatelu.pdb
+E:\GitHub\PrihlasovaniUzivatelu\PrihlasovaniUzivatelu\obj\Debug\net7.0-windows\PrihlasovaniUzivatelu.AdminScreen.resources
+E:\GitHub\PrihlasovaniUzivatelu\PrihlasovaniUzivatelu\obj\Debug\net7.0-windows\PrihlasovaniUzivatelu.Form1.resources
+E:\GitHub\PrihlasovaniUzivatelu\PrihlasovaniUzivatelu\obj\Debug\net7.0-windows\PrihlasovaniUzivatelu.Properties.Resources.resources
+E:\GitHub\PrihlasovaniUzivatelu\PrihlasovaniUzivatelu\obj\Debug\net7.0-windows\PrihlasovaniUzivatelu.Registration.resources
+E:\GitHub\PrihlasovaniUzivatelu\PrihlasovaniUzivatelu\obj\Debug\net7.0-windows\PrihlasovaniUzivatelu.csproj.GenerateResource.cache
+E:\GitHub\PrihlasovaniUzivatelu\PrihlasovaniUzivatelu\obj\Debug\net7.0-windows\PrihlasovaniUzivatelu.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\PrihlasovaniUzivatelu\PrihlasovaniUzivatelu\obj\Debug\net7.0-windows\PrihlasovaniUzivatelu.AssemblyInfoInputs.cache
+E:\GitHub\PrihlasovaniUzivatelu\PrihlasovaniUzivatelu\obj\Debug\net7.0-windows\PrihlasovaniUzivatelu.AssemblyInfo.cs
+E:\GitHub\PrihlasovaniUzivatelu\PrihlasovaniUzivatelu\obj\Debug\net7.0-windows\PrihlasovaniUzivatelu.csproj.CoreCompileInputs.cache
+E:\GitHub\PrihlasovaniUzivatelu\PrihlasovaniUzivatelu\obj\Debug\net7.0-windows\PrihlasovaniUzivatelu.sourcelink.json
+E:\GitHub\PrihlasovaniUzivatelu\PrihlasovaniUzivatelu\obj\Debug\net7.0-windows\PrihlasovaniUzivatelu.dll
+E:\GitHub\PrihlasovaniUzivatelu\PrihlasovaniUzivatelu\obj\Debug\net7.0-windows\refint\PrihlasovaniUzivatelu.dll
+E:\GitHub\PrihlasovaniUzivatelu\PrihlasovaniUzivatelu\obj\Debug\net7.0-windows\PrihlasovaniUzivatelu.pdb
+E:\GitHub\PrihlasovaniUzivatelu\PrihlasovaniUzivatelu\obj\Debug\net7.0-windows\PrihlasovaniUzivatelu.genruntimeconfig.cache
+E:\GitHub\PrihlasovaniUzivatelu\PrihlasovaniUzivatelu\obj\Debug\net7.0-windows\ref\PrihlasovaniUzivatelu.dll
