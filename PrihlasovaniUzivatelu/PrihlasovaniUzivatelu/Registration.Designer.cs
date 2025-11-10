@@ -28,99 +28,121 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.label4 = new System.Windows.Forms.Label();
-            this.textBox3 = new System.Windows.Forms.TextBox();
-            this.label3 = new System.Windows.Forms.Label();
-            this.textBox2 = new System.Windows.Forms.TextBox();
-            this.label2 = new System.Windows.Forms.Label();
-            this.label1 = new System.Windows.Forms.Label();
-            this.textBox1 = new System.Windows.Forms.TextBox();
-            this.SuspendLayout();
+            label4 = new Label();
+            passwordAgainBOX = new TextBox();
+            label3 = new Label();
+            passwordBOX = new TextBox();
+            label2 = new Label();
+            label1 = new Label();
+            usernameBOX = new TextBox();
+            registerBUTTON = new Button();
+            backgroundWorker1 = new System.ComponentModel.BackgroundWorker();
+            SuspendLayout();
             // 
             // label4
             // 
-            this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(325, 210);
-            this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(82, 13);
-            this.label4.TabIndex = 13;
-            this.label4.Text = "Password again";
+            label4.AutoSize = true;
+            label4.Location = new Point(379, 242);
+            label4.Margin = new Padding(4, 0, 4, 0);
+            label4.Name = "label4";
+            label4.Size = new Size(89, 15);
+            label4.TabIndex = 13;
+            label4.Text = "Password again";
             // 
-            // textBox3
+            // passwordAgainBOX
             // 
-            this.textBox3.Location = new System.Drawing.Point(328, 226);
-            this.textBox3.Name = "textBox3";
-            this.textBox3.Size = new System.Drawing.Size(108, 20);
-            this.textBox3.TabIndex = 12;
+            passwordAgainBOX.Location = new Point(383, 261);
+            passwordAgainBOX.Margin = new Padding(4, 3, 4, 3);
+            passwordAgainBOX.Name = "passwordAgainBOX";
+            passwordAgainBOX.Size = new Size(125, 23);
+            passwordAgainBOX.TabIndex = 12;
             // 
             // label3
             // 
-            this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(325, 162);
-            this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(53, 13);
-            this.label3.TabIndex = 11;
-            this.label3.Text = "Password";
+            label3.AutoSize = true;
+            label3.Location = new Point(379, 187);
+            label3.Margin = new Padding(4, 0, 4, 0);
+            label3.Name = "label3";
+            label3.Size = new Size(57, 15);
+            label3.TabIndex = 11;
+            label3.Text = "Password";
             // 
-            // textBox2
+            // passwordBOX
             // 
-            this.textBox2.Location = new System.Drawing.Point(328, 178);
-            this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(108, 20);
-            this.textBox2.TabIndex = 10;
+            passwordBOX.Location = new Point(383, 205);
+            passwordBOX.Margin = new Padding(4, 3, 4, 3);
+            passwordBOX.Name = "passwordBOX";
+            passwordBOX.Size = new Size(125, 23);
+            passwordBOX.TabIndex = 10;
             // 
             // label2
             // 
-            this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(325, 114);
-            this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(55, 13);
-            this.label2.TabIndex = 9;
-            this.label2.Text = "Username";
+            label2.AutoSize = true;
+            label2.Location = new Point(379, 132);
+            label2.Margin = new Padding(4, 0, 4, 0);
+            label2.Name = "label2";
+            label2.Size = new Size(60, 15);
+            label2.TabIndex = 9;
+            label2.Text = "Username";
             // 
             // label1
             // 
-            this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(339, 35);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(76, 13);
-            this.label1.TabIndex = 8;
-            this.label1.Text = "REGISTRACE";
+            label1.AutoSize = true;
+            label1.Location = new Point(407, 38);
+            label1.Margin = new Padding(4, 0, 4, 0);
+            label1.Name = "label1";
+            label1.Size = new Size(92, 15);
+            label1.TabIndex = 8;
+            label1.Text = "REGISTER NOW ";
             // 
-            // textBox1
+            // usernameBOX
             // 
-            this.textBox1.Location = new System.Drawing.Point(328, 130);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(108, 20);
-            this.textBox1.TabIndex = 7;
+            usernameBOX.Location = new Point(383, 150);
+            usernameBOX.Margin = new Padding(4, 3, 4, 3);
+            usernameBOX.Name = "usernameBOX";
+            usernameBOX.Size = new Size(125, 23);
+            usernameBOX.TabIndex = 7;
+            // 
+            // registerBUTTON
+            // 
+            registerBUTTON.Location = new Point(407, 320);
+            registerBUTTON.Name = "registerBUTTON";
+            registerBUTTON.Size = new Size(75, 23);
+            registerBUTTON.TabIndex = 14;
+            registerBUTTON.Text = "Register!";
+            registerBUTTON.UseVisualStyleBackColor = true;
+            registerBUTTON.Click += registerBUTTON_Click;
             // 
             // Registration
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
-            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Controls.Add(this.label4);
-            this.Controls.Add(this.textBox3);
-            this.Controls.Add(this.label3);
-            this.Controls.Add(this.textBox2);
-            this.Controls.Add(this.label2);
-            this.Controls.Add(this.label1);
-            this.Controls.Add(this.textBox1);
-            this.Name = "Registration";
-            this.Text = "Registrace";
-            this.ResumeLayout(false);
-            this.PerformLayout();
-
+            AutoScaleDimensions = new SizeF(7F, 15F);
+            AutoScaleMode = AutoScaleMode.Font;
+            ClientSize = new Size(933, 519);
+            Controls.Add(registerBUTTON);
+            Controls.Add(label4);
+            Controls.Add(passwordAgainBOX);
+            Controls.Add(label3);
+            Controls.Add(passwordBOX);
+            Controls.Add(label2);
+            Controls.Add(label1);
+            Controls.Add(usernameBOX);
+            Margin = new Padding(4, 3, 4, 3);
+            Name = "Registration";
+            Text = "Registrace";
+            ResumeLayout(false);
+            PerformLayout();
         }
 
         #endregion
 
-        private System.Windows.Forms.Label label4;
-        private System.Windows.Forms.TextBox textBox3;
-        private System.Windows.Forms.Label label3;
-        private System.Windows.Forms.TextBox textBox2;
-        private System.Windows.Forms.Label label2;
-        private System.Windows.Forms.Label label1;
-        private System.Windows.Forms.TextBox textBox1;
+        private Label label4;
+        private TextBox passwordAgainBOX;
+        private Label label3;
+        private TextBox passwordBOX;
+        private Label label2;
+        private Label label1;
+        private TextBox usernameBOX;
+        private Button registerBUTTON;
+        private System.ComponentModel.BackgroundWorker backgroundWorker1;
     }
 }

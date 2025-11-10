@@ -16,5 +16,13 @@ namespace PrihlasovaniUzivatelu
         {
             InitializeComponent();
         }
+
+        private void registerBUTTON_Click(object sender, EventArgs e)
+        {
+            string usernameREG = usernameBOX.Text;
+            string passwordREG = passwordBOX.Text;
+            UserManager.Registration(usernameREG, passwordREG);
+        }
+
     }
 }

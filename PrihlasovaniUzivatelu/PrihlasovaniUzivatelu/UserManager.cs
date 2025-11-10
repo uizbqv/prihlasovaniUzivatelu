@@ -14,16 +14,18 @@ namespace PrihlasovaniUzivatelu
 
         public static void LogIn(string _username, string _password)
         {
+            //ziskani promennych
             string username = _username;
             string password = _password;
-            string hashedPassword = PasswordHasher(_password);
+            
 
           
 
         }
-        public static void Registration()
+        public static void Registration(string _username, string _password)
         {
-
+            string hashedPassword = PasswordHasher(_password);
+            string username = _username;
 
 
 
@@ -31,6 +33,7 @@ namespace PrihlasovaniUzivatelu
 
         private static DateTime GetRegistrationDate()
         {
+            //ziska aktualni cas a datum(myslim)
             DateTime currentDate = DateTime.Now;
             return currentDate;
         }
@@ -40,16 +43,17 @@ namespace PrihlasovaniUzivatelu
             const int saltSize = 32;
             const int keySize = 32;
             const int iterations = 100000;
-
+            //randomnumbergenerator je oproti klasickýmu randomu nepredvidatelny, proto se pouziva na tyhle veci
             RandomNumberGenerator rng = RandomNumberGenerator.Create();
             byte[] salt = new byte[saltSize];
             rng.GetBytes(salt);
             Rfc2898DeriveBytes pbkdf2 = new Rfc2898DeriveBytes(_password, salt, iterations, HashAlgorithmName.SHA256);
-
+            //pbkdf2 je kryptografický algoritmus používaný k derivování silného kryptografického klíče z hesla (ať to znamená cokoli)
             byte[] key = new byte[keySize];
             string hash = Convert.ToBase64String(salt) + ":" + Convert.ToBase64String(key);
             rng.Dispose();
             pbkdf2.Dispose();
+            //Dispose() proste zahodi nahodny cislo aby se s nim nemohlo pracovat nikde jinde a nikdy jindy
             return hash;
 
 

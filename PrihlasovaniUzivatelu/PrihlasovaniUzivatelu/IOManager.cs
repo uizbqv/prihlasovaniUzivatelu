@@ -20,7 +20,7 @@ namespace PrihlasovaniUzivatelu
         static public void JsonConverter(User user)
         {
 
-            List<User> users = new();
+            List<User>? users = new();
 
             //pokud json soubor existuje, načteme ho (ochrana proti spadnutí)
            
@@ -32,7 +32,7 @@ namespace PrihlasovaniUzivatelu
             }
 
             //Přidání nového uživatele
-            users.Add(user);
+            users?.Add(user);
 
             //Zápis zpět do souboru
             var options = new JsonSerializerOptions { WriteIndented = true };
