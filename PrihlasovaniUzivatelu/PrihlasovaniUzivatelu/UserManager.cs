@@ -17,9 +17,10 @@ namespace PrihlasovaniUzivatelu
             //ziskani promennych
             string username = _username;
             string password = _password;
-            
 
-          
+            User user = new User(username, password);
+            IOManager.JsonConverter(user);
+            
 
         }
         public static void Registration(string _username, string _password)
