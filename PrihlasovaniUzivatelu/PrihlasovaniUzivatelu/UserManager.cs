@@ -23,8 +23,8 @@ namespace PrihlasovaniUzivatelu
             string username = _username;
             string password = _password;
 
-            //IOManager.JsonConverter(user);
-            
+
+
 
         }
         public void Registration(string _username, string _password, string _passwordAgain)
@@ -38,6 +38,7 @@ namespace PrihlasovaniUzivatelu
                 DateTime registrationTime = GetRegistrationDate();
                 //vytvori noveho uzivatele
                 User user = new User(username, hashedPassword, registrationTime);
+                IOManager.JsonConverter(user);
             }
             else
             {
