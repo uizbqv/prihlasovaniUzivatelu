@@ -3,12 +3,49 @@
   "WorkspaceRootPath": "C:\\Users\\c23skalicky\\Documents\\GitHub\\prihlasovaniUzivatelu\\PrihlasovaniUzivatelu\\",
   "Documents": [
     {
+<<<<<<< HEAD
+<<<<<<< HEAD
+      "AbsoluteMoniker": "D:0:0:{DFDA4DC3-2F14-46A2-9539-44B63FCBD3FA}|PrihlasovaniUzivatelu\\PrihlasovaniUzivatelu.csproj|c:\\users\\c23kosar\\documents\\github\\prihlasovaniuzivatelu\\prihlasovaniuzivatelu\\prihlasovaniuzivatelu\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DFDA4DC3-2F14-46A2-9539-44B63FCBD3FA}|PrihlasovaniUzivatelu\\PrihlasovaniUzivatelu.csproj|solutionrelative:prihlasovaniuzivatelu\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFDA4DC3-2F14-46A2-9539-44B63FCBD3FA}|PrihlasovaniUzivatelu\\PrihlasovaniUzivatelu.csproj|c:\\users\\c23kosar\\documents\\github\\prihlasovaniuzivatelu\\prihlasovaniuzivatelu\\prihlasovaniuzivatelu\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFDA4DC3-2F14-46A2-9539-44B63FCBD3FA}|PrihlasovaniUzivatelu\\PrihlasovaniUzivatelu.csproj|solutionrelative:prihlasovaniuzivatelu\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFDA4DC3-2F14-46A2-9539-44B63FCBD3FA}|PrihlasovaniUzivatelu\\PrihlasovaniUzivatelu.csproj|c:\\users\\c23kosar\\documents\\github\\prihlasovaniuzivatelu\\prihlasovaniuzivatelu\\prihlasovaniuzivatelu\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFDA4DC3-2F14-46A2-9539-44B63FCBD3FA}|PrihlasovaniUzivatelu\\PrihlasovaniUzivatelu.csproj|solutionrelative:prihlasovaniuzivatelu\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFDA4DC3-2F14-46A2-9539-44B63FCBD3FA}|PrihlasovaniUzivatelu\\PrihlasovaniUzivatelu.csproj|c:\\users\\c23kosar\\documents\\github\\prihlasovaniuzivatelu\\prihlasovaniuzivatelu\\prihlasovaniuzivatelu\\iomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFDA4DC3-2F14-46A2-9539-44B63FCBD3FA}|PrihlasovaniUzivatelu\\PrihlasovaniUzivatelu.csproj|solutionrelative:prihlasovaniuzivatelu\\iomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFDA4DC3-2F14-46A2-9539-44B63FCBD3FA}|PrihlasovaniUzivatelu\\PrihlasovaniUzivatelu.csproj|c:\\users\\c23kosar\\documents\\github\\prihlasovaniuzivatelu\\prihlasovaniuzivatelu\\prihlasovaniuzivatelu\\properties\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFDA4DC3-2F14-46A2-9539-44B63FCBD3FA}|PrihlasovaniUzivatelu\\PrihlasovaniUzivatelu.csproj|solutionrelative:prihlasovaniuzivatelu\\properties\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFDA4DC3-2F14-46A2-9539-44B63FCBD3FA}|PrihlasovaniUzivatelu\\PrihlasovaniUzivatelu.csproj|c:\\users\\c23kosar\\documents\\github\\prihlasovaniuzivatelu\\prihlasovaniuzivatelu\\prihlasovaniuzivatelu\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFDA4DC3-2F14-46A2-9539-44B63FCBD3FA}|PrihlasovaniUzivatelu\\PrihlasovaniUzivatelu.csproj|solutionrelative:prihlasovaniuzivatelu\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFDA4DC3-2F14-46A2-9539-44B63FCBD3FA}|PrihlasovaniUzivatelu\\PrihlasovaniUzivatelu.csproj|c:\\users\\c23kosar\\documents\\github\\prihlasovaniuzivatelu\\prihlasovaniuzivatelu\\prihlasovaniuzivatelu\\actionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFDA4DC3-2F14-46A2-9539-44B63FCBD3FA}|PrihlasovaniUzivatelu\\PrihlasovaniUzivatelu.csproj|solutionrelative:prihlasovaniuzivatelu\\actionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFDA4DC3-2F14-46A2-9539-44B63FCBD3FA}|PrihlasovaniUzivatelu\\PrihlasovaniUzivatelu.csproj|C:\\Users\\c23kosar\\Documents\\GitHub\\prihlasovaniUzivatelu\\PrihlasovaniUzivatelu\\prihlasovaniuzivatelu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+=======
+      "AbsoluteMoniker": "D:0:0:{DFDA4DC3-2F14-46A2-9539-44B63FCBD3FA}|PrihlasovaniUzivatelu\\PrihlasovaniUzivatelu.csproj|C:\\Users\\c23skalicky\\Documents\\GitHub\\prihlasovaniUzivatelu\\PrihlasovaniUzivatelu\\prihlasovaniuzivatelu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+>>>>>>> 7033221dfb509f79762912f16ddfb326071a2c48
+      "RelativeMoniker": "D:0:0:{DFDA4DC3-2F14-46A2-9539-44B63FCBD3FA}|PrihlasovaniUzivatelu\\PrihlasovaniUzivatelu.csproj|solutionrelative:prihlasovaniuzivatelu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+=======
       "AbsoluteMoniker": "D:0:0:{DFDA4DC3-2F14-46A2-9539-44B63FCBD3FA}|PrihlasovaniUzivatelu\\PrihlasovaniUzivatelu.csproj|c:\\users\\c23skalicky\\documents\\github\\prihlasovaniuzivatelu\\prihlasovaniuzivatelu\\prihlasovaniuzivatelu\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DFDA4DC3-2F14-46A2-9539-44B63FCBD3FA}|PrihlasovaniUzivatelu\\PrihlasovaniUzivatelu.csproj|solutionrelative:prihlasovaniuzivatelu\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DFDA4DC3-2F14-46A2-9539-44B63FCBD3FA}|PrihlasovaniUzivatelu\\PrihlasovaniUzivatelu.csproj|C:\\Users\\c23skalicky\\Documents\\GitHub\\prihlasovaniUzivatelu\\PrihlasovaniUzivatelu\\prihlasovaniuzivatelu\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{DFDA4DC3-2F14-46A2-9539-44B63FCBD3FA}|PrihlasovaniUzivatelu\\PrihlasovaniUzivatelu.csproj|solutionrelative:prihlasovaniuzivatelu\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+>>>>>>> 361af860309670df9811f409e27e1031eea6a0ed
     },
     {
       "AbsoluteMoniker": "D:0:0:{DFDA4DC3-2F14-46A2-9539-44B63FCBD3FA}|PrihlasovaniUzivatelu\\PrihlasovaniUzivatelu.csproj|c:\\users\\c23skalicky\\documents\\github\\prihlasovaniuzivatelu\\prihlasovaniuzivatelu\\prihlasovaniuzivatelu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -46,7 +83,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
+<<<<<<< HEAD
+<<<<<<< HEAD
+          "SelectedChildIndex": 2,
+=======
+          "SelectedChildIndex": 8,
+>>>>>>> 7033221dfb509f79762912f16ddfb326071a2c48
+=======
           "SelectedChildIndex": 7,
+>>>>>>> 361af860309670df9811f409e27e1031eea6a0ed
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,7 +99,63 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
+<<<<<<< HEAD
+              "DocumentIndex": 1,
+              "Title": "Form2.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\c23kosar\\Documents\\GitHub\\prihlasovaniUzivatelu\\PrihlasovaniUzivatelu\\PrihlasovaniUzivatelu\\Form2.Designer.cs",
+              "RelativeDocumentMoniker": "PrihlasovaniUzivatelu\\Form2.Designer.cs",
+              "ToolTip": "C:\\Users\\c23kosar\\Documents\\GitHub\\prihlasovaniUzivatelu\\PrihlasovaniUzivatelu\\PrihlasovaniUzivatelu\\Form2.Designer.cs*",
+              "RelativeToolTip": "PrihlasovaniUzivatelu\\Form2.Designer.cs*",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAQwEwAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T10:13:13.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\c23kosar\\Documents\\GitHub\\prihlasovaniUzivatelu\\PrihlasovaniUzivatelu\\PrihlasovaniUzivatelu\\Form2.cs",
+              "RelativeDocumentMoniker": "PrihlasovaniUzivatelu\\Form2.cs",
+              "ToolTip": "C:\\Users\\c23kosar\\Documents\\GitHub\\prihlasovaniUzivatelu\\PrihlasovaniUzivatelu\\PrihlasovaniUzivatelu\\Form2.cs*",
+              "RelativeToolTip": "PrihlasovaniUzivatelu\\Form2.cs*",
+              "ViewState": "AgIAACQAAAAAAAAAAAAQwEEAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T10:12:33.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form2.cs [N\u00E1vrh]",
+              "DocumentMoniker": "C:\\Users\\c23kosar\\Documents\\GitHub\\prihlasovaniUzivatelu\\PrihlasovaniUzivatelu\\PrihlasovaniUzivatelu\\Form2.cs",
+              "RelativeDocumentMoniker": "PrihlasovaniUzivatelu\\Form2.cs",
+              "ToolTip": "C:\\Users\\c23kosar\\Documents\\GitHub\\prihlasovaniUzivatelu\\PrihlasovaniUzivatelu\\PrihlasovaniUzivatelu\\Form2.cs [N\u00E1vrh]*",
+              "RelativeToolTip": "PrihlasovaniUzivatelu\\Form2.cs [N\u00E1vrh]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T10:12:01.548Z",
+=======
+              "DocumentIndex": 2,
+              "Title": "Registration.cs [N\u00E1vrh]",
+              "DocumentMoniker": "C:\\Users\\c23skalicky\\Documents\\GitHub\\prihlasovaniUzivatelu\\PrihlasovaniUzivatelu\\PrihlasovaniUzivatelu\\Registration.cs",
+              "RelativeDocumentMoniker": "PrihlasovaniUzivatelu\\Registration.cs",
+              "ToolTip": "C:\\Users\\c23skalicky\\Documents\\GitHub\\prihlasovaniUzivatelu\\PrihlasovaniUzivatelu\\PrihlasovaniUzivatelu\\Registration.cs [N\u00E1vrh]",
+              "RelativeToolTip": "PrihlasovaniUzivatelu\\Registration.cs [N\u00E1vrh]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T10:14:09.643Z",
+>>>>>>> 7033221dfb509f79762912f16ddfb326071a2c48
+              "EditorCaption": " [N\u00E1vrh]"
+            },
+            {
+              "$type": "Document",
+<<<<<<< HEAD
+              "DocumentIndex": 6,
+=======
+              "DocumentIndex": 4,
+=======
               "DocumentIndex": 5,
+>>>>>>> 361af860309670df9811f409e27e1031eea6a0ed
               "Title": "Form1.Designer.cs",
               "DocumentMoniker": "C:\\Users\\c23skalicky\\Documents\\GitHub\\prihlasovaniUzivatelu\\PrihlasovaniUzivatelu\\PrihlasovaniUzivatelu\\Form1.Designer.cs",
               "RelativeDocumentMoniker": "PrihlasovaniUzivatelu\\Form1.Designer.cs",
@@ -67,7 +168,12 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
+              "DocumentIndex": 7,
+>>>>>>> 7033221dfb509f79762912f16ddfb326071a2c48
+=======
               "DocumentIndex": 8,
+>>>>>>> 361af860309670df9811f409e27e1031eea6a0ed
               "Title": "ActionManager.cs",
               "DocumentMoniker": "C:\\Users\\c23skalicky\\Documents\\GitHub\\prihlasovaniUzivatelu\\PrihlasovaniUzivatelu\\PrihlasovaniUzivatelu\\ActionManager.cs",
               "RelativeDocumentMoniker": "PrihlasovaniUzivatelu\\ActionManager.cs",
@@ -79,19 +185,39 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
+<<<<<<< HEAD
+              "DocumentIndex": 3,
+=======
+              "DocumentIndex": 5,
+>>>>>>> 7033221dfb509f79762912f16ddfb326071a2c48
+=======
               "DocumentIndex": 6,
+>>>>>>> 361af860309670df9811f409e27e1031eea6a0ed
               "Title": "IOManager.cs",
               "DocumentMoniker": "C:\\Users\\c23skalicky\\Documents\\GitHub\\prihlasovaniUzivatelu\\PrihlasovaniUzivatelu\\PrihlasovaniUzivatelu\\IOManager.cs",
               "RelativeDocumentMoniker": "PrihlasovaniUzivatelu\\IOManager.cs",
               "ToolTip": "C:\\Users\\c23skalicky\\Documents\\GitHub\\prihlasovaniUzivatelu\\PrihlasovaniUzivatelu\\PrihlasovaniUzivatelu\\IOManager.cs",
               "RelativeToolTip": "PrihlasovaniUzivatelu\\IOManager.cs",
+<<<<<<< HEAD
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwB4AAABRAAAAAAAAAA==",
+=======
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAABRAAAAAAAAAA==",
+>>>>>>> 7033221dfb509f79762912f16ddfb326071a2c48
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-11T09:16:48.483Z"
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
+<<<<<<< HEAD
+              "DocumentIndex": 4,
+=======
+              "DocumentIndex": 6,
+>>>>>>> 7033221dfb509f79762912f16ddfb326071a2c48
+=======
               "DocumentIndex": 7,
+>>>>>>> 361af860309670df9811f409e27e1031eea6a0ed
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\c23skalicky\\Documents\\GitHub\\prihlasovaniUzivatelu\\PrihlasovaniUzivatelu\\PrihlasovaniUzivatelu\\Properties\\User.cs",
               "RelativeDocumentMoniker": "PrihlasovaniUzivatelu\\Properties\\User.cs",
@@ -103,7 +229,11 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
+              "DocumentIndex": 5,
+=======
               "DocumentIndex": 3,
+>>>>>>> 7033221dfb509f79762912f16ddfb326071a2c48
               "Title": "UserManager.cs",
               "DocumentMoniker": "C:\\Users\\c23skalicky\\Documents\\GitHub\\prihlasovaniUzivatelu\\PrihlasovaniUzivatelu\\PrihlasovaniUzivatelu\\UserManager.cs",
               "RelativeDocumentMoniker": "PrihlasovaniUzivatelu\\UserManager.cs",
@@ -116,7 +246,15 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
+<<<<<<< HEAD
+              "DocumentIndex": 8,
+=======
+              "DocumentIndex": 1,
+>>>>>>> 7033221dfb509f79762912f16ddfb326071a2c48
+=======
               "DocumentIndex": 2,
+>>>>>>> 361af860309670df9811f409e27e1031eea6a0ed
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\c23skalicky\\Documents\\GitHub\\prihlasovaniUzivatelu\\PrihlasovaniUzivatelu\\PrihlasovaniUzivatelu\\Form1.cs",
               "RelativeDocumentMoniker": "PrihlasovaniUzivatelu\\Form1.cs",
@@ -129,7 +267,13 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
+              "DocumentIndex": 7,
+=======
               "DocumentIndex": 0,
+<<<<<<< HEAD
+>>>>>>> 7033221dfb509f79762912f16ddfb326071a2c48
+=======
               "Title": "Registration.cs",
               "DocumentMoniker": "C:\\Users\\c23skalicky\\Documents\\GitHub\\prihlasovaniUzivatelu\\PrihlasovaniUzivatelu\\PrihlasovaniUzivatelu\\Registration.cs",
               "RelativeDocumentMoniker": "PrihlasovaniUzivatelu\\Registration.cs",
@@ -143,6 +287,7 @@
             {
               "$type": "Document",
               "DocumentIndex": 4,
+>>>>>>> 361af860309670df9811f409e27e1031eea6a0ed
               "Title": "Form1.cs [N\u00E1vrh]",
               "DocumentMoniker": "C:\\Users\\c23skalicky\\Documents\\GitHub\\prihlasovaniUzivatelu\\PrihlasovaniUzivatelu\\PrihlasovaniUzivatelu\\Form1.cs",
               "RelativeDocumentMoniker": "PrihlasovaniUzivatelu\\Form1.cs",

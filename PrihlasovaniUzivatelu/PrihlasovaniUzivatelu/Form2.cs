@@ -60,6 +60,9 @@ namespace PrihlasovaniUzivatelu
             pictureSlot1.Image = Picturegiver(S1);
             pictureSlot2.Image = Picturegiver(S2);
             pictureSlot3.Image = Picturegiver(S3);
+
+         
         }
+
     }
 }
