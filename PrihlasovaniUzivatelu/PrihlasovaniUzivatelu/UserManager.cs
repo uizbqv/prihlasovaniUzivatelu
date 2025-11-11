@@ -18,8 +18,7 @@ namespace PrihlasovaniUzivatelu
             string username = _username;
             string password = _password;
 
-            User user = new User(username, password);
-            IOManager.JsonConverter(user);
+           
             
 
         }
