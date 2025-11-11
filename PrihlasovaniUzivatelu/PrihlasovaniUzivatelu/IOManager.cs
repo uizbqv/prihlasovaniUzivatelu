@@ -17,7 +17,7 @@ namespace PrihlasovaniUzivatelu
         private static readonly string filePath = "users.json";
 
 
-        static public void JsonConverter(User user)
+        static public void JsonConverterReg(User user)
         {
 
             List<User>? users = new();
@@ -42,6 +42,22 @@ namespace PrihlasovaniUzivatelu
 
 
         }
+
+        static public void JsonConverterLog(User user) 
+        {
+
+            string json = JsonSerializer.Deserialize<List<User>>();
+
+
+        }
+
+
+
+
+
+
+
+
 
         internal static void JsonConverter(Properties.User user)
         {
