@@ -17,15 +17,16 @@ namespace PrihlasovaniUzivatelu
             //ziskani promennych
             string username = _username;
             string password = _password;
-            
 
-          
+           
+            
 
         }
         public static void Registration(string _username, string _password)
         {
             string hashedPassword = PasswordHasher(_password);
             string username = _username;
+            DateTime registrationTime = GetRegistrationDate();
 
 
 

@@ -43,6 +43,9 @@ namespace PrihlasovaniUzivatelu
 
         }
 
-       
+        internal static void JsonConverter(Properties.User user)
+        {
+            throw new NotImplementedException();
+        }
     }
 }
