@@ -35,7 +35,7 @@
             label3 = new Label();
             passwordBOX1 = new TextBox();
             label4 = new Label();
-            label5 = new Label();
+            registerLABEL = new Label();
             logInBUTTON1 = new Button();
             button1 = new Button();
             ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
@@ -108,18 +108,18 @@
             label4.TabIndex = 6;
             label4.Text = "Don't have an account?";
             // 
-            // label5
+            // registerLABEL
             // 
-            label5.AutoSize = true;
-            label5.Cursor = Cursors.Hand;
-            label5.ForeColor = SystemColors.ActiveCaption;
-            label5.Location = new Point(483, 459);
-            label5.Margin = new Padding(4, 0, 4, 0);
-            label5.Name = "label5";
-            label5.Size = new Size(84, 15);
-            label5.TabIndex = 7;
-            label5.Text = "Register NOW!";
-            label5.Click += label5_Click;
+            registerLABEL.AutoSize = true;
+            registerLABEL.Cursor = Cursors.Hand;
+            registerLABEL.ForeColor = SystemColors.ActiveCaption;
+            registerLABEL.Location = new Point(483, 459);
+            registerLABEL.Margin = new Padding(4, 0, 4, 0);
+            registerLABEL.Name = "registerLABEL";
+            registerLABEL.Size = new Size(84, 15);
+            registerLABEL.TabIndex = 7;
+            registerLABEL.Text = "Register NOW!";
+            registerLABEL.Click += registerLABEL_Click;
             // 
             // logInBUTTON1
             // 
@@ -150,7 +150,7 @@
             ClientSize = new Size(990, 522);
             Controls.Add(button1);
             Controls.Add(logInBUTTON1);
-            Controls.Add(label5);
+            Controls.Add(registerLABEL);
             Controls.Add(label4);
             Controls.Add(label3);
             Controls.Add(passwordBOX1);
@@ -176,7 +176,7 @@
         private Label label3;
         private TextBox passwordBOX1;
         private Label label4;
-        private Label label5;
+        private Label registerLABEL;
         private Button logInBUTTON1;
         private Button button1;
     }

@@ -8,23 +8,23 @@
     "net7.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\c23kosar\\.nuget\\packages\\": {},
+    "C:\\Users\\c23skalicky\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\c23kosar\\Documents\\GitHub\\prihlasovaniUzivatelu\\PrihlasovaniUzivatelu\\PrihlasovaniUzivatelu\\PrihlasovaniUzivatelu.csproj",
+      "projectUniqueName": "C:\\Users\\c23skalicky\\Documents\\GitHub\\prihlasovaniUzivatelu\\PrihlasovaniUzivatelu\\PrihlasovaniUzivatelu\\PrihlasovaniUzivatelu.csproj",
       "projectName": "PrihlasovaniUzivatelu",
-      "projectPath": "C:\\Users\\c23kosar\\Documents\\GitHub\\prihlasovaniUzivatelu\\PrihlasovaniUzivatelu\\PrihlasovaniUzivatelu\\PrihlasovaniUzivatelu.csproj",
-      "packagesPath": "C:\\Users\\c23kosar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\c23kosar\\Documents\\GitHub\\prihlasovaniUzivatelu\\PrihlasovaniUzivatelu\\PrihlasovaniUzivatelu\\obj\\",
+      "projectPath": "C:\\Users\\c23skalicky\\Documents\\GitHub\\prihlasovaniUzivatelu\\PrihlasovaniUzivatelu\\PrihlasovaniUzivatelu\\PrihlasovaniUzivatelu.csproj",
+      "packagesPath": "C:\\Users\\c23skalicky\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\c23skalicky\\Documents\\GitHub\\prihlasovaniUzivatelu\\PrihlasovaniUzivatelu\\PrihlasovaniUzivatelu\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\c23kosar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\c23skalicky\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
