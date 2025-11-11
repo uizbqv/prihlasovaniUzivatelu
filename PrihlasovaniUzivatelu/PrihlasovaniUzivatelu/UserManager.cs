@@ -27,6 +27,7 @@ namespace PrihlasovaniUzivatelu
         {
             string hashedPassword = PasswordHasher(_password);
             string username = _username;
+            DateTime registrationTime = GetRegistrationDate();
 
 
 
