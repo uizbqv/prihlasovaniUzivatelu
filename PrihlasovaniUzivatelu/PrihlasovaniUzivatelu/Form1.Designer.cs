@@ -119,7 +119,7 @@
             registerLABEL.Size = new Size(84, 15);
             registerLABEL.TabIndex = 7;
             registerLABEL.Text = "Register NOW!";
-            registerLABEL.Click += registerLABEL_Click_1;
+            registerLABEL.Click += registerLABEL_Click;
             // 
             // logInBUTTON1
             // 
