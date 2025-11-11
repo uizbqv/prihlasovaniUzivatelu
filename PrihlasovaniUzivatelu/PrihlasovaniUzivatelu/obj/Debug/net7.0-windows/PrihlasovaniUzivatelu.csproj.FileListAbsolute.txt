@@ -76,3 +76,4 @@ C:\Users\c23kosar\Documents\GitHub\prihlasovaniUzivatelu\PrihlasovaniUzivatelu\P
 C:\Users\c23kosar\Documents\GitHub\prihlasovaniUzivatelu\PrihlasovaniUzivatelu\PrihlasovaniUzivatelu\obj\Debug\net7.0-windows\PrihlasovaniUzivatelu.pdb
 C:\Users\c23kosar\Documents\GitHub\prihlasovaniUzivatelu\PrihlasovaniUzivatelu\PrihlasovaniUzivatelu\obj\Debug\net7.0-windows\PrihlasovaniUzivatelu.genruntimeconfig.cache
 C:\Users\c23kosar\Documents\GitHub\prihlasovaniUzivatelu\PrihlasovaniUzivatelu\PrihlasovaniUzivatelu\obj\Debug\net7.0-windows\ref\PrihlasovaniUzivatelu.dll
+C:\Users\c23kosar\Documents\GitHub\prihlasovaniUzivatelu\PrihlasovaniUzivatelu\PrihlasovaniUzivatelu\obj\Debug\net7.0-windows\PrihlasovaniUzivatelu.Form2.resources
