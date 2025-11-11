@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using static System.Windows.Forms.VisualStyles.VisualStyleElement;
 
 namespace PrihlasovaniUzivatelu
 {
@@ -16,6 +17,10 @@ namespace PrihlasovaniUzivatelu
         {
             InitializeComponent();
             dontMatchLABEL.Visible = false;
+            passwordBOX.Text = "";
+            passwordBOX.PasswordChar = '*';
+            passwordAgainBOX.Text = "";
+            passwordAgainBOX.PasswordChar = '*';
         }
 
         private void registerBUTTON_Click(object sender, EventArgs e)
