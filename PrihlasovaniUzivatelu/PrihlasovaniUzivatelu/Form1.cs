@@ -24,6 +24,11 @@ namespace PrihlasovaniUzivatelu
             //jsem diddler
         }
 
+        private void label5_Click(object sender, EventArgs e)
+        {
+            Registration r = new Registration();
+            r.Show();
+        }
 
         private void logInBUTTON1_Click(object sender, EventArgs e)
         {
@@ -32,11 +37,10 @@ namespace PrihlasovaniUzivatelu
             UserManager.LogIn(username, password);
         }
 
-        private void registerLABEL_Click_1(object sender, EventArgs e)
+        private void button1_Click(object sender, EventArgs e)
         {
-            Registration r = new Registration();
-            r.Show();
+            Form2 f2 = new Form2();
+            f2.Show();
         }
-
     }
 }

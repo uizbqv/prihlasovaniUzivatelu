@@ -37,6 +37,7 @@
             label4 = new Label();
             registerLABEL = new Label();
             logInBUTTON1 = new Button();
+            button1 = new Button();
             ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
             SuspendLayout();
             // 
@@ -131,12 +132,23 @@
             logInBUTTON1.UseVisualStyleBackColor = true;
             logInBUTTON1.Click += logInBUTTON1_Click;
             // 
+            // button1
+            // 
+            button1.Location = new Point(22, 487);
+            button1.Name = "button1";
+            button1.Size = new Size(75, 23);
+            button1.TabIndex = 9;
+            button1.Text = "dffsd";
+            button1.UseVisualStyleBackColor = true;
+            button1.Click += button1_Click;
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = Color.DarkGreen;
             ClientSize = new Size(990, 522);
+            Controls.Add(button1);
             Controls.Add(logInBUTTON1);
             Controls.Add(registerLABEL);
             Controls.Add(label4);
@@ -166,6 +178,7 @@
         private Label label4;
         private Label registerLABEL;
         private Button logInBUTTON1;
+        private Button button1;
     }
 }
 
