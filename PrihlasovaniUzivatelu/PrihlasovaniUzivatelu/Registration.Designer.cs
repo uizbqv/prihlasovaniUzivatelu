@@ -37,6 +37,7 @@
             usernameBOX = new TextBox();
             registerBUTTON = new Button();
             backgroundWorker1 = new System.ComponentModel.BackgroundWorker();
+            dontMatchLABEL = new Label();
             SuspendLayout();
             // 
             // label4
@@ -91,7 +92,7 @@
             label1.Location = new Point(407, 38);
             label1.Margin = new Padding(4, 0, 4, 0);
             label1.Name = "label1";
-            label1.Size = new Size(92, 15);
+            label1.Size = new Size(91, 15);
             label1.TabIndex = 8;
             label1.Text = "REGISTER NOW ";
             // 
@@ -113,11 +114,24 @@
             registerBUTTON.UseVisualStyleBackColor = true;
             registerBUTTON.Click += registerBUTTON_Click;
             // 
+            // dontMatchLABEL
+            // 
+            dontMatchLABEL.AutoSize = true;
+            dontMatchLABEL.ForeColor = Color.Red;
+            dontMatchLABEL.Location = new Point(529, 264);
+            dontMatchLABEL.Margin = new Padding(4, 0, 4, 0);
+            dontMatchLABEL.Name = "dontMatchLABEL";
+            dontMatchLABEL.Size = new Size(130, 15);
+            dontMatchLABEL.TabIndex = 15;
+            dontMatchLABEL.Text = "Passwords don't match";
+            dontMatchLABEL.Visible = false;
+            // 
             // Registration
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(933, 519);
+            Controls.Add(dontMatchLABEL);
             Controls.Add(registerBUTTON);
             Controls.Add(label4);
             Controls.Add(passwordAgainBOX);
@@ -144,5 +158,6 @@
         private TextBox usernameBOX;
         private Button registerBUTTON;
         private System.ComponentModel.BackgroundWorker backgroundWorker1;
+        private Label dontMatchLABEL;
     }
 }

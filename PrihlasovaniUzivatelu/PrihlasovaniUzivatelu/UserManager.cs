@@ -10,23 +10,37 @@ namespace PrihlasovaniUzivatelu
 {
     internal class UserManager
     {
-        
+        protected Label _label;
+        public UserManager(Label label) 
+        {
+            _label = label;
+        }
+
 
         public static void LogIn(string _username, string _password)
         {
             //ziskani promennych
             string username = _username;
             string password = _password;
-            User user = new User(username, password);
-            IOManager.JsonConverter(user);
+
+            //IOManager.JsonConverter(user);
             
 
         }
-        public static void Registration(string _username, string _password)
+        public void Registration(string _username, string _password, string _passwordAgain)
         {
-            string hashedPassword = PasswordHasher(_password);
-            string username = _username;
-            DateTime registrationTime = GetRegistrationDate();
+           
+            if (_password == _passwordAgain)
+            {
+                string hashedPassword = PasswordHasher(_password);
+                string username = _username;
+                DateTime registrationTime = GetRegistrationDate();
+                User user = new User(username, hashedPassword, registrationTime);
+            }
+            else
+            {
+                ShowLabel();
+            }
 
 
 
@@ -59,5 +73,10 @@ namespace PrihlasovaniUzivatelu
 
 
         }
+        private void ShowLabel() 
+        {
+            _label.Visible = true;
+        }
+
     }
 }

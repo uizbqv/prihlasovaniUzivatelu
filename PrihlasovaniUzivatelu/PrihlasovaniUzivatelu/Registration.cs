@@ -15,14 +15,17 @@ namespace PrihlasovaniUzivatelu
         public Registration()
         {
             InitializeComponent();
+            dontMatchLABEL.Visible = false;
         }
 
         private void registerBUTTON_Click(object sender, EventArgs e)
         {
             string usernameREG = usernameBOX.Text;
             string passwordREG = passwordBOX.Text;
-            UserManager.Registration(usernameREG, passwordREG);
+            string passwordAgainREG = passwordAgainBOX.Text;
+            //UserManager.Registration(usernameREG, passwordREG, passwordAgainREG);
+            UserManager um = new UserManager(dontMatchLABEL);
+            um.Registration(usernameREG, passwordREG, passwordAgainREG);
         }
-
     }
 }
