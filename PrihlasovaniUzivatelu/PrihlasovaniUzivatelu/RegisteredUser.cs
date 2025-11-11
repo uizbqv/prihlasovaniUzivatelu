@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace PrihlasovaniUzivatelu.Properties
+namespace PrihlasovaniUzivatelu
 {
-    internal class User
+    internal class RegisteredUser
     {
         public string username { get; set; }
         public string password { get; set; }
@@ -14,12 +14,13 @@ namespace PrihlasovaniUzivatelu.Properties
         public DateTime registrationTime { get; set; }
 
 
-        public User(string username, string password, DateTime registrationTime)
+        public RegisteredUser(string username, string password, DateTime registrationTime)
         {
             this.username = username;
             this.password = password;
             this.registrationTime = registrationTime;
         }
+        public RegisteredUser() { }
 
     }
 }

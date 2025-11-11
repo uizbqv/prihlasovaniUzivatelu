@@ -1,5 +1,4 @@
-﻿using PrihlasovaniUzivatelu.Properties;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Security.Cryptography;
@@ -37,8 +36,8 @@ namespace PrihlasovaniUzivatelu
                 string username = _username;
                 DateTime registrationTime = GetRegistrationDate();
                 //vytvori noveho uzivatele
-                User user = new User(username, hashedPassword, registrationTime);
-                IOManager.JsonConverter(user);
+                RegisteredUser user = new RegisteredUser(username, hashedPassword, registrationTime);
+                IOManager.JsonConverterReg(user);
             }
             else
             {

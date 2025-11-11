@@ -98,3 +98,4 @@ C:\Users\c23skalicky\Documents\GitHub\prihlasovaniUzivatelu\PrihlasovaniUzivatel
 C:\Users\c23skalicky\Documents\GitHub\prihlasovaniUzivatelu\PrihlasovaniUzivatelu\PrihlasovaniUzivatelu\bin\Debug\net7.0-windows\PrihlasovaniUzivatelu.pdb
 C:\Users\c23skalicky\Documents\GitHub\prihlasovaniUzivatelu\PrihlasovaniUzivatelu\PrihlasovaniUzivatelu\obj\Debug\net7.0-windows\PrihlasovaniUzivatelu.genruntimeconfig.cache
 C:\Users\c23skalicky\Documents\GitHub\prihlasovaniUzivatelu\PrihlasovaniUzivatelu\PrihlasovaniUzivatelu\obj\Debug\net7.0-windows\ref\PrihlasovaniUzivatelu.dll
+C:\Users\Amd\OneDrive\Documents\GitHub\prihlasovaniUzivatelu\PrihlasovaniUzivatelu\PrihlasovaniUzivatelu\obj\Debug\net7.0-windows\PrihlasovaniUzivatelu.Form2.resources

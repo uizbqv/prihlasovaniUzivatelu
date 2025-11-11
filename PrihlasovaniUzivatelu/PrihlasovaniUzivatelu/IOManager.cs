@@ -17,10 +17,10 @@ namespace PrihlasovaniUzivatelu
         private static readonly string filePath = "users.json";
 
 
-        static public void JsonConverterReg(User user)
+        static public void JsonConverterReg(RegisteredUser user)
         {
 
-            List<User>? users = new();
+            List<RegisteredUser>? users = new();
 
             //pokud json soubor existuje, načteme ho (ochrana proti spadnutí)
            
@@ -28,7 +28,7 @@ namespace PrihlasovaniUzivatelu
             {
                 string existingJson = File.ReadAllText(filePath);
                 if (!string.IsNullOrWhiteSpace(existingJson))
-                    users = JsonSerializer.Deserialize<List<User>>(existingJson);
+                    users = JsonSerializer.Deserialize<List<RegisteredUser>>(existingJson);
             }
 
             //Přidání nového uživatele
@@ -46,7 +46,7 @@ namespace PrihlasovaniUzivatelu
         static public void JsonConverterLog(User user) 
         {
 
-            string json = JsonSerializer.Deserialize<List<User>>();
+            //string json = JsonSerializer.Deserialize<List<User>>();
 
 
         }
@@ -59,7 +59,7 @@ namespace PrihlasovaniUzivatelu
 
 
 
-        internal static void JsonConverter(Properties.User user)
+        internal static void JsonConverter(RegisteredUser user)
         {
             throw new NotImplementedException();
         }
