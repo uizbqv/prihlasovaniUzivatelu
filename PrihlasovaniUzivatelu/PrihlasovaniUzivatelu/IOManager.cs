@@ -43,10 +43,12 @@ namespace PrihlasovaniUzivatelu
 
         }
 
-        static public void JsonConverterLog(User user) 
+        static public void JsonConverterLog() 
         {
 
-            //string json = JsonSerializer.Deserialize<List<User>>();
+            string json = File.ReadAllText(filePath) ?? string.Empty;
+            
+            User user = JsonSerializer.Deserialize<User>(json);
 
 
         }
