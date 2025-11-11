@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using static System.Windows.Forms.VisualStyles.VisualStyleElement;
 
 namespace PrihlasovaniUzivatelu
 {
@@ -15,6 +16,9 @@ namespace PrihlasovaniUzivatelu
         public Form1()
         {
             InitializeComponent();
+            passwordBOX1.Text = "";
+            // The password character is an asterisk.
+            passwordBOX1.PasswordChar = '*';
         }
 
         private void Form1_Load(object sender, EventArgs e)

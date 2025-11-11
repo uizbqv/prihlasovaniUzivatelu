@@ -32,14 +32,16 @@ namespace PrihlasovaniUzivatelu
            
             if (_password == _passwordAgain)
             {
+                //ziska promenne
                 string hashedPassword = PasswordHasher(_password);
                 string username = _username;
                 DateTime registrationTime = GetRegistrationDate();
+                //vytvori noveho uzivatele
                 User user = new User(username, hashedPassword, registrationTime);
             }
             else
             {
-                ShowLabel();
+                ShowLabel();//ukaze ze hesla nejsou stejny
             }
 
 
