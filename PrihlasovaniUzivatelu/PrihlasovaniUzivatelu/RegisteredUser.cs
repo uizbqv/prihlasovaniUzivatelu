@@ -20,7 +20,6 @@ namespace PrihlasovaniUzivatelu
             this.password = password;
             this.registrationTime = registrationTime;
         }
-        public RegisteredUser() { }
 
     }
 }

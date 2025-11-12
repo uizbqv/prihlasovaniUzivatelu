@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "E:\\GitHub\\PrihlasovaniUzivatelu\\PrihlasovaniUzivatelu\\PrihlasovaniUzivatelu.csproj": {}
+    "C:\\Users\\c23skalicky\\Documents\\GitHub\\prihlasovaniUzivatelu\\PrihlasovaniUzivatelu\\PrihlasovaniUzivatelu\\PrihlasovaniUzivatelu.csproj": {}
   },
   "projects": {
-    "E:\\GitHub\\PrihlasovaniUzivatelu\\PrihlasovaniUzivatelu\\PrihlasovaniUzivatelu.csproj": {
+    "C:\\Users\\c23skalicky\\Documents\\GitHub\\prihlasovaniUzivatelu\\PrihlasovaniUzivatelu\\PrihlasovaniUzivatelu\\PrihlasovaniUzivatelu.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\GitHub\\PrihlasovaniUzivatelu\\PrihlasovaniUzivatelu\\PrihlasovaniUzivatelu.csproj",
+        "projectUniqueName": "C:\\Users\\c23skalicky\\Documents\\GitHub\\prihlasovaniUzivatelu\\PrihlasovaniUzivatelu\\PrihlasovaniUzivatelu\\PrihlasovaniUzivatelu.csproj",
         "projectName": "PrihlasovaniUzivatelu",
-        "projectPath": "E:\\GitHub\\PrihlasovaniUzivatelu\\PrihlasovaniUzivatelu\\PrihlasovaniUzivatelu.csproj",
-        "packagesPath": "C:\\Users\\kryst\\.nuget\\packages\\",
-        "outputPath": "E:\\GitHub\\PrihlasovaniUzivatelu\\PrihlasovaniUzivatelu\\obj\\",
+        "projectPath": "C:\\Users\\c23skalicky\\Documents\\GitHub\\prihlasovaniUzivatelu\\PrihlasovaniUzivatelu\\PrihlasovaniUzivatelu\\PrihlasovaniUzivatelu.csproj",
+        "packagesPath": "C:\\Users\\c23skalicky\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\c23skalicky\\Documents\\GitHub\\prihlasovaniUzivatelu\\PrihlasovaniUzivatelu\\PrihlasovaniUzivatelu\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\kryst\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\c23skalicky\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -60,6 +60,24 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[7.0.20, 7.0.20]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[7.0.20, 7.0.20]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[7.0.20, 7.0.20]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[7.0.20, 7.0.20]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"

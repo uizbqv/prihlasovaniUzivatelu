@@ -48,7 +48,7 @@ namespace PrihlasovaniUzivatelu
 
             string json = File.ReadAllText(filePath) ?? string.Empty;
             
-            User user = JsonSerializer.Deserialize<User>(json);
+            RegisteredUser user = JsonSerializer.Deserialize<RegisteredUser>(json);
 
 
         }
