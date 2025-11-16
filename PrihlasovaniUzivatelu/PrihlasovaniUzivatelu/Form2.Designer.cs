@@ -32,6 +32,11 @@
             pictureSlot2 = new PictureBox();
             pictureSlot3 = new PictureBox();
             RerollButton = new Button();
+            NumberOfFunds = new TextBox();
+            JustTextTextbox1 = new TextBox();
+            JustTextTextbox2 = new TextBox();
+            Investment = new TextBox();
+            GambleVýsledek = new TextBox();
             ((System.ComponentModel.ISupportInitialize)pictureSlot1).BeginInit();
             ((System.ComponentModel.ISupportInitialize)pictureSlot2).BeginInit();
             ((System.ComponentModel.ISupportInitialize)pictureSlot3).BeginInit();
@@ -74,11 +79,67 @@
             RerollButton.UseVisualStyleBackColor = true;
             RerollButton.Click += RerollButton_Click;
             // 
+            // NumberOfFunds
+            // 
+            NumberOfFunds.Font = new Font("Times New Roman", 14.25F, FontStyle.Regular, GraphicsUnit.Point);
+            NumberOfFunds.Location = new Point(12, 309);
+            NumberOfFunds.Name = "NumberOfFunds";
+            NumberOfFunds.ReadOnly = true;
+            NumberOfFunds.Size = new Size(100, 29);
+            NumberOfFunds.TabIndex = 4;
+            NumberOfFunds.Text = "1000";
+            // 
+            // JustTextTextbox1
+            // 
+            JustTextTextbox1.Font = new Font("Times New Roman", 18F, FontStyle.Bold, GraphicsUnit.Point);
+            JustTextTextbox1.Location = new Point(12, 268);
+            JustTextTextbox1.Name = "JustTextTextbox1";
+            JustTextTextbox1.ReadOnly = true;
+            JustTextTextbox1.Size = new Size(100, 35);
+            JustTextTextbox1.TabIndex = 5;
+            JustTextTextbox1.Text = "Funds:";
+            // 
+            // JustTextTextbox2
+            // 
+            JustTextTextbox2.Font = new Font("Times New Roman", 18F, FontStyle.Bold, GraphicsUnit.Point);
+            JustTextTextbox2.Location = new Point(659, 268);
+            JustTextTextbox2.Name = "JustTextTextbox2";
+            JustTextTextbox2.ReadOnly = true;
+            JustTextTextbox2.Size = new Size(128, 35);
+            JustTextTextbox2.TabIndex = 6;
+            JustTextTextbox2.Text = "Investment:";
+            // 
+            // Investment
+            // 
+            Investment.Font = new Font("Times New Roman", 14.25F, FontStyle.Regular, GraphicsUnit.Point);
+            Investment.Location = new Point(659, 315);
+            Investment.Name = "Investment";
+            Investment.Size = new Size(128, 29);
+            Investment.TabIndex = 7;
+            Investment.Text = "0";
+            Investment.TextAlign = HorizontalAlignment.Right;
+            Investment.TextChanged += Investment_TextChanged;
+            // 
+            // GambleVýsledek
+            // 
+            GambleVýsledek.Font = new Font("Times New Roman", 18F, FontStyle.Bold, GraphicsUnit.Point);
+            GambleVýsledek.Location = new Point(229, 102);
+            GambleVýsledek.Name = "GambleVýsledek";
+            GambleVýsledek.ReadOnly = true;
+            GambleVýsledek.Size = new Size(351, 35);
+            GambleVýsledek.TabIndex = 8;
+            GambleVýsledek.TextAlign = HorizontalAlignment.Center;
+            // 
             // Form2
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
+            Controls.Add(GambleVýsledek);
+            Controls.Add(Investment);
+            Controls.Add(JustTextTextbox2);
+            Controls.Add(JustTextTextbox1);
+            Controls.Add(NumberOfFunds);
             Controls.Add(RerollButton);
             Controls.Add(pictureSlot3);
             Controls.Add(pictureSlot2);
@@ -90,6 +151,7 @@
             ((System.ComponentModel.ISupportInitialize)pictureSlot2).EndInit();
             ((System.ComponentModel.ISupportInitialize)pictureSlot3).EndInit();
             ResumeLayout(false);
+            PerformLayout();
         }
 
         #endregion
@@ -98,5 +160,10 @@
         private PictureBox pictureSlot2;
         private PictureBox pictureSlot3;
         private Button RerollButton;
+        private TextBox NumberOfFunds;
+        private TextBox JustTextTextbox1;
+        private TextBox JustTextTextbox2;
+        private TextBox Investment;
+        private TextBox GambleVýsledek;
     }
 }
