@@ -16,6 +16,42 @@ namespace PrihlasovaniUzivatelu
 
         public static string filePath = "users.json";
 
+        public static void JsonConverterReg(RegisteredUser user)
+        {
+            List<RegisteredUser> users = new();
+
+         
+            if (File.Exists(filePath) && new FileInfo(filePath).Length > 0)
+            {
+                string existingJson = File.ReadAllText(filePath);
+                var loadedUsers = JsonSerializer.Deserialize<List<RegisteredUser>>(existingJson);
+
+                if (loadedUsers != null)
+                    users = loadedUsers;
+            }
+
+           
+            users.Add(user);
+
+          
+            string json = JsonSerializer.Serialize(users, new JsonSerializerOptions { WriteIndented = true });
+            File.WriteAllText(filePath, json);
+        }
+
+        public static List<RegisteredUser> JsonConverterLog()
+        {
+            if (!File.Exists(filePath))
+                return new List<RegisteredUser>();
+
+            string json = File.ReadAllText(filePath);
+            return JsonSerializer.Deserialize<List<RegisteredUser>>(json)
+                   ?? new List<RegisteredUser>();
+        }
+
+
+        /*
+        public static string filePath = "users.json";
+
 
         static public void JsonConverterReg(RegisteredUser user)
         {
@@ -60,5 +96,10 @@ namespace PrihlasovaniUzivatelu
         {
             throw new NotImplementedException();
         }
+        */
+
+
+
+
     }
 }
