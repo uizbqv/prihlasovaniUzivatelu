@@ -14,7 +14,11 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PrihlasovaniUzivatelu")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
+<<<<<<< Updated upstream
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5b25bb6f7882b31ebf6c6c1d6820fc01545a3cb1")]
+=======
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+af647dff5106974cd22f5b08bf5b460ccae487df")]
+>>>>>>> Stashed changes
 [assembly: System.Reflection.AssemblyProductAttribute("PrihlasovaniUzivatelu")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PrihlasovaniUzivatelu")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

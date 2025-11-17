@@ -99,6 +99,7 @@ C:\Users\c23skalicky\Documents\GitHub\prihlasovaniUzivatelu\PrihlasovaniUzivatel
 C:\Users\c23skalicky\Documents\GitHub\prihlasovaniUzivatelu\PrihlasovaniUzivatelu\PrihlasovaniUzivatelu\obj\Debug\net7.0-windows\PrihlasovaniUzivatelu.genruntimeconfig.cache
 C:\Users\c23skalicky\Documents\GitHub\prihlasovaniUzivatelu\PrihlasovaniUzivatelu\PrihlasovaniUzivatelu\obj\Debug\net7.0-windows\ref\PrihlasovaniUzivatelu.dll
 C:\Users\Amd\OneDrive\Documents\GitHub\prihlasovaniUzivatelu\PrihlasovaniUzivatelu\PrihlasovaniUzivatelu\obj\Debug\net7.0-windows\PrihlasovaniUzivatelu.Form2.resources
+<<<<<<< Updated upstream
 C:\Dokumenty\GitHub\prihlasovaniUzivatelu\PrihlasovaniUzivatelu\PrihlasovaniUzivatelu\bin\Debug\net7.0-windows\PrihlasovaniUzivatelu.exe
 C:\Dokumenty\GitHub\prihlasovaniUzivatelu\PrihlasovaniUzivatelu\PrihlasovaniUzivatelu\bin\Debug\net7.0-windows\PrihlasovaniUzivatelu.deps.json
 C:\Dokumenty\GitHub\prihlasovaniUzivatelu\PrihlasovaniUzivatelu\PrihlasovaniUzivatelu\bin\Debug\net7.0-windows\PrihlasovaniUzivatelu.runtimeconfig.json
@@ -120,3 +121,6 @@ C:\Dokumenty\GitHub\prihlasovaniUzivatelu\PrihlasovaniUzivatelu\PrihlasovaniUziv
 C:\Dokumenty\GitHub\prihlasovaniUzivatelu\PrihlasovaniUzivatelu\PrihlasovaniUzivatelu\obj\Debug\net7.0-windows\PrihlasovaniUzivatelu.pdb
 C:\Dokumenty\GitHub\prihlasovaniUzivatelu\PrihlasovaniUzivatelu\PrihlasovaniUzivatelu\obj\Debug\net7.0-windows\PrihlasovaniUzivatelu.genruntimeconfig.cache
 C:\Dokumenty\GitHub\prihlasovaniUzivatelu\PrihlasovaniUzivatelu\PrihlasovaniUzivatelu\obj\Debug\net7.0-windows\ref\PrihlasovaniUzivatelu.dll
+=======
+E:\GitHub\PrihlasovaniUzivatelu\PrihlasovaniUzivatelu\obj\Debug\net7.0-windows\PrihlasovaniUzivatelu.Form2.resources
+>>>>>>> Stashed changes
