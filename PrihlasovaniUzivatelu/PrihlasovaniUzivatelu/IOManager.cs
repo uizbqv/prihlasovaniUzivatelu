@@ -14,7 +14,7 @@ namespace PrihlasovaniUzivatelu
     internal class IOManager
     {
 
-        private static readonly string filePath = "users.json";
+        public static string filePath = "users.json";
 
 
         static public void JsonConverterReg(RegisteredUser user)
@@ -22,21 +22,16 @@ namespace PrihlasovaniUzivatelu
 
             List<RegisteredUser>? users = new();
 
-            //pokud json soubor existuje, načteme ho (ochrana proti spadnutí)
+            
            
-            if (File.Exists(filePath))
-            {
-                string existingJson = File.ReadAllText(filePath);
-                if (!string.IsNullOrWhiteSpace(existingJson))
-                    users = JsonSerializer.Deserialize<List<RegisteredUser>>(existingJson);
-            }
+            
 
             //Přidání nového uživatele
             users?.Add(user);
 
             //Zápis zpět do souboru
-            var options = new JsonSerializerOptions { WriteIndented = true };
-            string json = JsonSerializer.Serialize(users, options);
+           
+            string json = JsonSerializer.Serialize(users);
             File.WriteAllText(filePath, json);
 
 
