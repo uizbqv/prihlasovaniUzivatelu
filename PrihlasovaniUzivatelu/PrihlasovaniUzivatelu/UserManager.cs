@@ -26,7 +26,7 @@ namespace PrihlasovaniUzivatelu
 
 
         }
-        public void Registration(string _username, string _password, string _passwordAgain)
+        public void Registration(string _username, string _password, string _passwordAgain, bool _admin)
         {
            
             if (_password == _passwordAgain)
@@ -35,8 +35,9 @@ namespace PrihlasovaniUzivatelu
                 string hashedPassword = PasswordHasher(_password);
                 string username = _username;
                 DateTime registrationTime = GetRegistrationDate();
+                bool admin;
                 //vytvori noveho uzivatele
-                RegisteredUser user = new RegisteredUser(username, hashedPassword, registrationTime);
+                RegisteredUser user = new RegisteredUser(username, hashedPassword, registrationTime, admin);
                 IOManager.JsonConverterReg(user);
             }
             else

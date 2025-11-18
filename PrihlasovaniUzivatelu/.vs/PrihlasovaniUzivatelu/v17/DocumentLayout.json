@@ -7,7 +7,8 @@
       "RelativeMoniker": "D:0:0:{DFDA4DC3-2F14-46A2-9539-44B63FCBD3FA}|PrihlasovaniUzivatelu\\PrihlasovaniUzivatelu.csproj|solutionrelative:prihlasovaniuzivatelu\\iomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{DFDA4DC3-2F14-46A2-9539-44B63FCBD3FA}|PrihlasovaniUzivatelu\\PrihlasovaniUzivatelu.csproj|c:\\users\\c23kosar\\documents\\github\\prihlasovaniuzivatelu\\prihlasovaniuzivatelu\\prihlasovaniuzivatelu\\registereduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFDA4DC3-2F14-46A2-9539-44B63FCBD3FA}|PrihlasovaniUzivatelu\\PrihlasovaniUzivatelu.csproj|solutionrelative:prihlasovaniuzivatelu\\registereduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DFDA4DC3-2F14-46A2-9539-44B63FCBD3FA}|PrihlasovaniUzivatelu\\PrihlasovaniUzivatelu.csproj|c:\\users\\c23kosar\\documents\\github\\prihlasovaniuzivatelu\\prihlasovaniuzivatelu\\prihlasovaniuzivatelu\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -24,10 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{DFDA4DC3-2F14-46A2-9539-44B63FCBD3FA}|PrihlasovaniUzivatelu\\PrihlasovaniUzivatelu.csproj|C:\\Users\\c23kosar\\Documents\\GitHub\\prihlasovaniUzivatelu\\PrihlasovaniUzivatelu\\prihlasovaniuzivatelu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{DFDA4DC3-2F14-46A2-9539-44B63FCBD3FA}|PrihlasovaniUzivatelu\\PrihlasovaniUzivatelu.csproj|solutionrelative:prihlasovaniuzivatelu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\c23kosar\\Documents\\GitHub\\prihlasovaniUzivatelu\\PrihlasovaniUzivatelu\\PrihlasovaniUzivatelu\\Properties\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PrihlasovaniUzivatelu\\Properties\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,14 +39,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Microsoft.Common.CurrentVersion.targets",
-              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
-              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
-              "ViewState": "AgIAADUWAAAAAAAAAAAAAEsWAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2025-11-18T09:06:28.228Z",
+              "Title": "RegisteredUser.cs",
+              "DocumentMoniker": "C:\\Users\\c23kosar\\Documents\\GitHub\\prihlasovaniUzivatelu\\PrihlasovaniUzivatelu\\PrihlasovaniUzivatelu\\RegisteredUser.cs",
+              "RelativeDocumentMoniker": "PrihlasovaniUzivatelu\\RegisteredUser.cs",
+              "ToolTip": "C:\\Users\\c23kosar\\Documents\\GitHub\\prihlasovaniUzivatelu\\PrihlasovaniUzivatelu\\PrihlasovaniUzivatelu\\RegisteredUser.cs",
+              "RelativeToolTip": "PrihlasovaniUzivatelu\\RegisteredUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T09:19:40.421Z",
               "EditorCaption": ""
             },
             {
@@ -60,22 +57,10 @@
               "RelativeDocumentMoniker": "PrihlasovaniUzivatelu\\IOManager.cs",
               "ToolTip": "C:\\Users\\c23kosar\\Documents\\GitHub\\prihlasovaniUzivatelu\\PrihlasovaniUzivatelu\\PrihlasovaniUzivatelu\\IOManager.cs",
               "RelativeToolTip": "PrihlasovaniUzivatelu\\IOManager.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAUwB0AAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAiwCcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-11T09:16:48.483Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\c23kosar\\Documents\\GitHub\\prihlasovaniUzivatelu\\PrihlasovaniUzivatelu\\PrihlasovaniUzivatelu\\Properties\\User.cs",
-              "RelativeDocumentMoniker": "PrihlasovaniUzivatelu\\Properties\\User.cs",
-              "ToolTip": "C:\\Users\\c23kosar\\Documents\\GitHub\\prihlasovaniUzivatelu\\PrihlasovaniUzivatelu\\PrihlasovaniUzivatelu\\Properties\\User.cs",
-              "RelativeToolTip": "PrihlasovaniUzivatelu\\Properties\\User.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-09T23:06:47.275Z"
             },
             {
               "$type": "Document",
@@ -85,9 +70,10 @@
               "RelativeDocumentMoniker": "PrihlasovaniUzivatelu\\UserManager.cs",
               "ToolTip": "C:\\Users\\c23kosar\\Documents\\GitHub\\prihlasovaniUzivatelu\\PrihlasovaniUzivatelu\\PrihlasovaniUzivatelu\\UserManager.cs",
               "RelativeToolTip": "PrihlasovaniUzivatelu\\UserManager.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCgAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCoAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-09T22:00:59.74Z"
+              "WhenOpened": "2025-11-09T22:00:59.74Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -111,8 +97,7 @@
               "ToolTip": "C:\\Users\\c23kosar\\Documents\\GitHub\\prihlasovaniUzivatelu\\PrihlasovaniUzivatelu\\PrihlasovaniUzivatelu\\Form1.cs [N\u00E1vrh]",
               "RelativeToolTip": "PrihlasovaniUzivatelu\\Form1.cs [N\u00E1vrh]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-09T22:01:00.288Z",
-              "EditorCaption": " [N\u00E1vrh]"
+              "WhenOpened": "2025-11-09T22:01:00.288Z"
             },
             {
               "$type": "Document",
@@ -123,8 +108,7 @@
               "ToolTip": "C:\\Users\\c23kosar\\Documents\\GitHub\\prihlasovaniUzivatelu\\PrihlasovaniUzivatelu\\PrihlasovaniUzivatelu\\Registration.cs [N\u00E1vrh]",
               "RelativeToolTip": "PrihlasovaniUzivatelu\\Registration.cs [N\u00E1vrh]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-11T10:14:09.643Z",
-              "EditorCaption": " [N\u00E1vrh]"
+              "WhenOpened": "2025-11-11T10:14:09.643Z"
             }
           ]
         }
