@@ -14,7 +14,7 @@ namespace PrihlasovaniUzivatelu
     internal class IOManager
     {
 
-        public static string filePath = "users.json";
+        public static string filePath = "PrihlasovaniUzivatelu\\users.json";
 
         public static void JsonConverterReg(RegisteredUser user)
         {

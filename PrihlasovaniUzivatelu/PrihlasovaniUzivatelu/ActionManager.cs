@@ -8,5 +8,6 @@ namespace PrihlasovaniUzivatelu
 {
     internal class ActionManager
     {
+        //smrdi ti leva koule, prava moc ne :)
     }
 }
